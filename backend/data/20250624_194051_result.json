@@ -1,0 +1,13 @@
+{
+  "text": "This is a test image for OCR.\nIt has multiple lines of text.\n\nThe goal is to extract it correctly.\n",
+  "line_count": 4,
+  "keywords": [
+    "test",
+    "image",
+    "multiple",
+    "lines",
+    "text"
+  ],
+  "summary": "This is a test image for OCR. It has multiple lines of text.",
+  "sentiment": "Neutral"
+}
