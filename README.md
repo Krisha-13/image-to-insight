@@ -48,21 +48,8 @@ image-to-insight/
 ├── backend/
 │   ├── main.py
 │   ├── ocr_utils.py
-│   └── data/               # saved images + results
+│   └── data/               
 ├── frontend/
 │   ├── UploadImage.jsx
 │   ├── App.jsx
 ├── README.md
-
-📜 License
-MIT License
-
-
----
-
-#### 3. Then commit and push:
-
-```bash
-git add README.md
-git commit -m "Add project README"
-git push
